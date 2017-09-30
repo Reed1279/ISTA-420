@@ -8,7 +8,7 @@ Look at the csv file named presidents-short.csv in the SQL directory.
 Create an appropriate table schema.
 Insert the CSV data into the table you just created.
 
-(B)FOR QUESTIONS 1 - 3, I FOUND IT INTERESTING THAT THIS COULD ALL BE COMPLETED WHILE CREATING THE db SAVING TIME FROM HAVING TO MANUALY ENTER INFO.(B)
+**FOR QUESTIONS 1 - 3, I FOUND IT INTERESTING THAT THIS COULD ALL BE COMPLETED WHILE CREATING THE db SAVING TIME FROM HAVING TO MANUALY ENTER INFO.**
 1. Delete the first record from your table using the output clause. This is the header.
 Alter the presidents table by adding a primary key column.
 
